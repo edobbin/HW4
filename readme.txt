@@ -1,0 +1,1 @@
+This is a java resturant management system made utilizing various design patterns. it runs through the command line.
